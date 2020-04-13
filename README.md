@@ -1,1 +1,1 @@
-# training for devops freshers
+# training for java freshers
