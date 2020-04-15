@@ -1,1 +1,1 @@
-# training for devops freshers
+# training for member freshers
