@@ -1,1 +1,4 @@
-# training for new freshers
+java-hello-world-webapp
+=======================
+
+A simple java web app
